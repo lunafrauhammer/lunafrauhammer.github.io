@@ -6,5 +6,5 @@ This is a personal website containing supplementary material for my research.
 
 ### Project Overview
 
-[Attitudinal Congruence](https://lunafrauhammer.github.io/Attitudinal-Congruence/)
+[Attitudinal Congruence](https://lunafrauhammer.github.io/Attitudinal_Congruence/)
 
